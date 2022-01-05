@@ -21,7 +21,7 @@
 }
 
 body {
-  background: transparent url("/images/background.svg") 0% 0% no-repeat
+  background: transparent url("images/background.svg") 0% 0% no-repeat
     padding-box;
   background-size: cover;
   position: relative;
@@ -353,7 +353,7 @@ h4 {
 /* register section */
 
 .register-section {
-  background: transparent url("/images/register_1_layer.png") 0% 0% no-repeat
+  background: transparent url("images/register_1_layer.png") 0% 0% no-repeat
     padding-box;
   position: relative;
   background-size: cover;
